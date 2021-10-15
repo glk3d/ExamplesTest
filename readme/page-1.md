@@ -2,8 +2,8 @@
 
 can i upload files? 
 
-{% file src="../.gitbook/assets/New Folder/UIparam_ShellView.gh" %}
+{% file src="../.gitbook/assets/New folder/UIparam_BeamView.gh" %}
 
 testung
 
-{% file src="../.gitbook/assets/UIparam_BeamView.gh" %}
+{% file src="../.gitbook/assets/UIparam_ShellView.gh" %}
