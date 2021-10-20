@@ -6,4 +6,4 @@ can i upload files?
 
 testung
 
-{% file src="../.gitbook/assets/UIparam_ShellView.gh" %}
+{% file src="../.gitbook/assets/New Folder(2)/UIparam_ShellView.gh" %}
